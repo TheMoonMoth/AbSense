@@ -1,6 +1,8 @@
 # AbSense
 ## Absentee Reporter
 
+Created by: Kyle Weintraub
+
 AbSense was made to simplify the absence reporting process. Rather than having parents call your school and hoping that the voice message makes it's way to the right paper copy file, AbSense digitally archives all submitted reports and make them easily accessible to administrators and families.
 
 ## Home Page
