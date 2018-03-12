@@ -28,6 +28,8 @@ Navigate into the "Teacher Portal" to view all absentee reports. This feature is
 * Node.js
 * Firebase
 
+[Frontend Repository](https://github.com/TheMoonMoth/P2-frontend) [Backend Repository](https://github.com/TheMoonMoth/P2-backend)
+
 ### License
 
 MIT
